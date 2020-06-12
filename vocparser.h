@@ -16,7 +16,7 @@ const char datasets[][6] = {"2007", "train", "2007", "val", "2012", "train", "20
 const char classes[][12] = {"aeroplane", "bicycle", "bird", "boat", "bottle", "bus", "car", "cat", "chair", "cow", 
                     "diningtable", "dog", "horse", "motorbike", "person", "pottedplant", "sheep", "sofa", "train", "tvmonitor"};
 
-const char VOCDevkitLocation[] = "/mnt/ANOTHER_LIFE/PASCAL_VOC/VOCdevkit/VOC";
+const char VOCDevkitLocation[] = "/gdrive/VOC/VOCdevkit/VOC";
 
 typedef struct yolobox
 {
